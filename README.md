@@ -10,14 +10,7 @@
 
 ## 安装方法
 
-### 方式一：通过 HACS 安装（推荐）
-
-1. 确保已安装 [HACS](https://hacs.xyz/)
-2. 在 HACS 中搜索 "Camera OSD"
-3. 点击安装
-4. 重启 Home Assistant
-
-### 方式二：手动安装
+### 方式：手动安装
 
 1. 将 `custom_components/camera_osd` 文件夹复制到 Home Assistant 的 `config/custom_components/` 目录
 2. 重启 Home Assistant
