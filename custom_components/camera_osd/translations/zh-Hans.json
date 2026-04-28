@@ -1,0 +1,42 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "cam_ip": "摄像机 IP 地址",
+          "cam_port": "端口号 (通常是 80)",
+          "cam_user": "摄像机账号",
+          "cam_pass": "摄像机密码",
+          "osd_token": "OSD Token (勿动)",
+          "slot1_label": "【左侧】数据显示名称 (如:温度)",
+          "slot1_entity": "【左侧】选择要关联的实体 (留空则隐藏)",
+          "slot2_label": "【中间】数据显示名称 (如:湿度)",
+          "slot2_entity": "【中间】选择要关联的实体 (留空则隐藏)",
+          "slot3_label": "【右侧】数据显示名称 (如:进度)",
+          "slot3_entity": "【右侧】选择要关联的实体 (留空则隐藏)",
+          "update_interval": "刷新间隔 (秒)"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "cam_ip": "摄像机 IP 地址",
+          "cam_port": "端口号 (通常是 80)",
+          "cam_user": "摄像机账号",
+          "cam_pass": "摄像机密码",
+          "osd_token": "OSD Token",
+          "slot1_label": "【左侧】数据显示名称 (如:温度)",
+          "slot1_entity": "【左侧】选择要关联的实体 (留空则隐藏)",
+          "slot2_label": "【中间】数据显示名称 (如:湿度)",
+          "slot2_entity": "【中间】选择要关联的实体 (留空则隐藏)",
+          "slot3_label": "【右侧】数据显示名称 (如:进度)",
+          "slot3_entity": "【右侧】选择要关联的实体 (留空则隐藏)",
+          "update_interval": "刷新间隔 (秒)"
+        }
+      }
+    }
+  }
+}
